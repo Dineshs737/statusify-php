@@ -1,7 +1,6 @@
 # uthayakumar-dinesh/statusify
 
 [![Packagist Version](https://img.shields.io/packagist/v/uthayakumar-dinesh/statusify)](https://packagist.org/packages/uthayakumar-dinesh/statusify)
-[![PHP Version Require](https://img.shields.io/packagist/php-v/uthayakumar-dinesh/statusify)](https://packagist.org/packages/uthayakumar-dinesh/statusify)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Total Downloads](https://img.shields.io/packagist/dt/uthayakumar-dinesh/statusify)](https://packagist.org/packages/uthayakumar-dinesh/statusify)
 
@@ -392,9 +391,8 @@ composer phpstan
 
 ## Issues and Support
 
-- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/uthayakumar-dinesh/statusify-php/issues)
-- 💡 **Feature Requests**: [GitHub Issues](https://github.com/uthayakumar-dinesh/statusify-php/issues)
-- 📖 **Documentation**: [GitHub Repository](https://github.com/uthayakumar-dinesh/statusify-php)
+- 🐛 **Bug Reports**: [GitHub Issues](https://github.com/Dineshs737/statusify-php/issues)
+- 💡 **Feature Requests**: [GitHub Issues](https://github.com/Dineshs737/statusify-php/issues)
 
 ## Changelog
 
