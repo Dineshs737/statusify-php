@@ -2,6 +2,7 @@
   "name": "uthayakumar-dinesh/statusify",
   "description": "HTTP status codes as constants with helper function for PHP",
   "type": "library",
+  "version": "1.1.0",
   "authors": [
     {
       "name": "Dineshs737",
