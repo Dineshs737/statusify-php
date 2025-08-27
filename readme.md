@@ -330,7 +330,7 @@ We welcome contributions! Please follow these steps:
 1. **Fork the repository**
 
    ```bash
-   git clone https://github.com/uthayakumar-dinesh/statusify-php.git
+   git clone git@github.com:Dineshs737/statusify-php.git
    ```
 
 2. **Install dependencies**
@@ -363,7 +363,7 @@ We welcome contributions! Please follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/uthayakumar-dinesh/statusify-php.git
+git clone git@github.com:Dineshs737/statusify-php.git
 cd statusify-php
 
 # Install dependencies
