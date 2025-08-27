@@ -1,0 +1,18 @@
+{
+  "name": "uthayakumar-dinesh/statusify",
+  "description": "HTTP status codes as constants with helper function for PHP",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Dineshs737",
+      "email": "dinesh77saarck@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "UthayakumarDinesh\\Statusify\\": "src/"
+    }
+  },
+  "require": {}
+}
