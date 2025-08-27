@@ -238,10 +238,20 @@ Returns the constant name for a given HTTP status code.
 **Example:**
 
 ```php
-Statusify::getStatusName(200); // Returns: "OK"
-Statusify::getStatusName(404); // Returns: "NOT_FOUND"
-Statusify::getStatusName(500); // Returns: "INTERNAL_SERVER_ERROR"
-Statusify::getStatusName(999); // Returns: "UNKNOWN_STATUS"
+<?php
+require 'vendor/autoload.php'; // Make sure your autoloader is set correctly!
+
+use UthayakumarDinesh\Statusify\Statusify;
+
+// Test with a known status code
+$code = 200;
+echo "Code: $code\n";
+echo "Name: " . Statusify::getStatusName($code) . "\n";
+
+// Test with an unknown status code
+$unknownCode = 999;
+echo "Code: $unknownCode\n";
+echo "Name: " . Statusify::getStatusName($unknownCode) . "\n";
 ```
 
 ## Available HTTP Status Codes
